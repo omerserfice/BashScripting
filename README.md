@@ -20,3 +20,23 @@ ls, cp, mv, rm, cat, echo, mkdir gibi temel komutlar burada bulunur.
 #### /usr ####
 
 #### /var ####
+
+# LINUX KOMUTLARI 
+
+pwd -> 
+cd -> 
+Volumes -> 
+ls ->
+ls -l ->
+ls -a ->
+ls -la ->
+grep ->
+rmdir ->
+rm ->
+man ->
+history ->
+tail ->
+cat -> 
+cp -> 
+who ->
+
