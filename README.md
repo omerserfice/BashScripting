@@ -23,22 +23,22 @@ ls, cp, mv, rm, cat, echo, mkdir gibi temel komutlar burada bulunur.
 
 # LINUX KOMUTLARI 
 
-## pwd ##
-## cd ## 
-## Volumes ## 
-## ls ##
-## ls -l ##
-## ls -a ##
-## ls -la ##
-## grep ##
-## rmdir ##
-## rm ##
-## man ##
-## history ##
-## tail ##
-## cat ## 
-## cp ## 
-## who ##
+#### pwd ####
+#### cd #### 
+#### Volumes #### 
+#### ls ####
+#### ls -l ####
+#### ls -a ####
+#### ls -la ####
+#### grep ####
+#### rmdir ####
+#### rm ####
+#### man ####
+#### history ####
+#### tail ####
+#### cat #### 
+#### cp #### 
+#### who ####
 #### stdout ####
 #### stderr ####
 #### whoami ####
