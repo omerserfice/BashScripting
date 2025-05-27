@@ -39,4 +39,12 @@ ls, cp, mv, rm, cat, echo, mkdir gibi temel komutlar burada bulunur.
 ## cat ## 
 ## cp ## 
 ## who ##
-
+#### stdout ####
+#### stderr ####
+#### whoami ####
+#### tty ####
+#### which ####
+#### locate ####
+#### date ####
+#### time ####
+## Vi Editör ##
